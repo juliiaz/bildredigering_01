@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lab(63.32% -3.29 1.21);
+    margin: 0;
+}
+
+.header-image {
+    width: 100%;
+    object-fit: cover;
+    display: block;
+    opacity: 0.4;
+    height: 400px;
+}
